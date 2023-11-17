@@ -1,0 +1,21 @@
+unique_words = [
+    "abacus", "acoustic", "adorable", "aerial", "allegro", "alligator", "alphabet", "ambitious", "anomaly", "apricot",
+    "aquarium", "architect", "artichoke", "asparagus", "astronomy", "athletic", "atmosphere", "avocado", "ballet", "bamboo",
+    "banana", "benevolent", "bicycle", "blissful", "blueberry", "boulevard", "butterfly", "cabbage", "cacophony", "cactus",
+    "calamity", "calligraphy", "camel", "captivating", "carousel", "cello", "chameleon", "charming", "chocolate", "chromatic",
+    "cinnamon", "circus", "clandestine", "cobalt", "colossal", "comet", "compassionate", "concerto", "conundrum", "coral",
+    "cosmic", "courtyard", "cozy", "crimson", "crystal", "cucumber", "curiosity", "cyclone", "daffodil", "dandelion",
+    "delightful", "diamond", "dolphin", "ebony", "eclectic", "elegant", "elephant", "emerald", "enchanting", "epiphany",
+    "equinox", "euphoria", "evocative", "exquisite", "fantasy", "fascinating", "feather", "firefly", "flamingo", "flute",
+    "fragrant", "freedom", "frosty", "gazelle", "gentle", "gigantic", "glacier", "glimmer", "graceful", "grapefruit",
+    "harmony", "hazel", "hibiscus", "horizon", "hurricane", "hyacinth", "icy", "imagination", "incandescent", "infinite",
+    "innocent", "inspiration", "integrity", "intrigue", "iridescent", "jasmine", "jubilant", "kaleidoscope", "kiwi", "labyrinth",
+    "lagoon", "languid", "lavender", "lemonade", "leopard", "lighthouse", "lilac", "lullaby", "luminous", "magenta",
+    "magnificent", "majestic", "marvelous", "meadow", "mermaid", "mystical", "nectar", "nightingale", "oceanic", "orchid",
+    "palatial", "papaya", "paradise", "paradox", "passionate", "peacock", "perennial", "peridot", "phantasmagoria", "piano",
+    "picturesque", "playful", "plumage", "polka-dot", "poppy", "prismatic", "profound", "pumpkin", "quixotic", "radiant",
+    "rainbow", "rapture", "raspberry", "reverie", "rivulet", "rosemary", "sapphire", "sculpture", "serendipity", "silhouette",
+    "soothing", "sparkle", "spectacle", "starry", "sublime", "succulent", "sugarplum", "sunflower", "surreal", "symphony",
+    "tangerine", "tranquil", "triumph", "tulip", "twilight", "unicorn", "velvet", "verdant", "vibrant", "whimsical",
+    "wisteria", "wonder", "xylophone", "zealous", "zephyr"
+]
